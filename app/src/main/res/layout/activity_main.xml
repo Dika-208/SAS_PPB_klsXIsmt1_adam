@@ -40,7 +40,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Bank ABC"
+            android:text="Depositku"
             android:textColor="@color/primary_color"
             android:textSize="12sp"/>
 
